@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @AhmedCharfeddine, a 23 year old Tunisian student Studying Computer Science and engineering.
-- 💼 I'm constantly looking for job opportunities in Software and ML Engineering.
-- 👀 I’m interested in web development and web scraping.
-- 🧑‍💻 I'm a freelancing Python developer at [Upwork](https://www.upwork.com/freelancers/~01dd1972b174c2095a).
-- ✨ I’m currently exploring Deep learning, Algorithms and Data Structures. Have a look at my [LeetCode](https://leetcode.com/AhmedCharfeddine/) account!
-- 📫 You can reach me on [linkedIn](https://www.linkedin.com/in/ahmed-charfeddine/), [Facebook](https://www.facebook.com/ahmed.charfeddine32) or at <ahmed.charfeddine@outlook.com>!
+Hi, I’m @AhmedCharfeddine, a software engineer interested in exploring and diving deep into how things work under the hood.
 
-Have a great day 🌱
+I'm particularly into system design, backend engineering, tech concepts, and DSA (have a look at my [LeetCode](https://leetcode.com/AhmedCharfeddine/)).
+
+📫 You can reach me on [linkedIn](https://www.linkedin.com/in/ahmed-charfeddine/), [Upwork](https://www.upwork.com/freelancers/~01dd1972b174c2095a), or at <ahmed.charfeddine@outlook.com>
+
+Thanks for stopping by 👋
 <!---
 AhmedCharfeddine/AhmedCharfeddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
